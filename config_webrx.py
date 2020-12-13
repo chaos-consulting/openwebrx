@@ -131,7 +131,7 @@ sdrs = {
         # center_freq + lfo_offset = actual frequency on the sdr
         # "lfo_offset": 0,
         "profiles": {
-            "70cm": {
+            "70cm Relais": {
                 "name": "70cm Relais",
                 "center_freq": 438800000,
                 "rf_gain": 29,
@@ -139,14 +139,23 @@ sdrs = {
                 "start_freq": 439275000,
                 "start_mod": "nfm",
             },
+            "70cm FT8": {
+                "name": "70cm FT8",
+                "center_freq": 432174000,
+                "rf_gain": 14.4,
+                "samp_rate": 2000000,
+                "start_freq": 432174000,
+                "start_mod": "usb",
+            },
             "2m": {
-                "name": "2m komplett",
+                "name": "2m",
                 "center_freq": 145000000,
                 "rf_gain": 29,
                 "samp_rate": 2048000,
                 "start_freq": 145725000,
                 "start_mod": "nfm",
             },
+
         },
     },
     "airspy": {
