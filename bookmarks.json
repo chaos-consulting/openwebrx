@@ -1,418 +1,128 @@
 [
   {
-    "name": "DB0IUZ",
-    "frequency": 438225000,
-    "modulation": "nfm"
+    "name": "DB0UH",
+    "frequency": 145600000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0WE",
-    "frequency": 438500000,
-    "modulation": "nfm"
+    "name": "DB0MG",
+    "frequency": 145612500,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0GWG",
-    "frequency": 438550000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0RI",
-    "frequency": 438562500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0NG",
-    "frequency": 438575000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DRI",
-    "frequency": 438587500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0OVM",
-    "frequency": 438600000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0WAT",
-    "frequency": 438612500,
-    "modulation": "nfm"
+    "name": "DB0RTV",
+    "frequency": 145612500,
+    "modulation": "dmr"
   },
   {
     "name": "DB0SA",
-    "frequency": 438625000,
-    "modulation": "nfm"
+    "frequency": 145625000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0QF",
-    "frequency": 438625000,
-    "modulation": "nfm"
+    "name": "DB0WW",
+    "frequency": 145625000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0TT",
-    "frequency": 438650000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DIN",
-    "frequency": 438662500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0EG",
-    "frequency": 438675000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MGH",
-    "frequency": 438687500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MUE",
-    "frequency": 438700000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DS",
-    "frequency": 438712000,
-    "modulation": "nfm"
+    "name": "DB0YJ",
+    "frequency": 145625000,
+    "modulation": "dmr"
   },
   {
     "name": "DB0YS",
-    "frequency": 438725000,
-    "modulation": "nfm"
+    "frequency": 145637500,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0BOH",
-    "frequency": 438725000,
-    "modulation": "nfm"
+    "name": "DB0WE",
+    "frequency": 145650000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0KLE",
-    "frequency": 438737500,
-    "modulation": "nfm"
+    "name": "DB0FHA",
+    "frequency": 145662500,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0KOE",
-    "frequency": 438737500,
-    "modulation": "nfm"
+    "name": "DB0VR",
+    "frequency": 145675000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0HRF",
-    "frequency": 438750000,
-    "modulation": "nfm"
+    "name": "DB0WM",
+    "frequency": 145700000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0BPY",
-    "frequency": 438750000,
-    "modulation": "nfm"
+    "name": "DB0DOS",
+    "frequency": 145712500,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0TOM",
-    "frequency": 438762500,
-    "modulation": "nfm"
+    "name": "DB0ZK",
+    "frequency": 145725000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0QA",
-    "frequency": 438775000,
-    "modulation": "nfm"
+    "name": "DB0DO",
+    "frequency": 145737500,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0IDS",
-    "frequency": 438775000,
-    "modulation": "nfm"
+    "name": "DB0HTV",
+    "frequency": 145750000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0CGN",
-    "frequency": 438787500,
-    "modulation": "nfm"
+    "name": "DB0XO",
+    "frequency": 145750000,
+    "modulation": "dmr"
   },
   {
-    "name": "DB0SJ",
-    "frequency": 438800000,
-    "modulation": "nfm"
+    "name": "DB0LEI",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SAT",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0UT",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0VK",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0VQ",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0XE",
+    "frequency": 145775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WA",
+    "frequency": 145787500,
+    "modulation": "dmr"
   },
   {
     "name": "DB0DAU",
     "frequency": 428812500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0BS",
-    "frequency": 438825000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0HRB",
-    "frequency": 438825000,
-    "modulation": "nfm"
+    "modulation": "dmr"
   },
   {
     "name": "DB0ERK",
     "frequency": 428837500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0WES",
-    "frequency": 438850000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DOS",
-    "frequency": 438850000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DTM",
-    "frequency": 438850000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0WES",
-    "frequency": 438850000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DT",
-    "frequency": 438862500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0QH",
-    "frequency": 438875000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0OW",
-    "frequency": 438887500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0NG",
-    "frequency": 438900000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0KX",
-    "frequency": 438925000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0BOR",
-    "frequency": 438950000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0IS",
-    "frequency": 438962500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0CA",
-    "frequency": 438975000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0PD",
-    "frequency": 439000000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0SK",
-    "frequency": 439000000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0FHA",
-    "frequency": 439012500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0NY",
-    "frequency": 439025000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0SG",
-    "frequency": 439050000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0NA",
-    "frequency": 439075000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0VEL",
-    "frequency": 439087500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0HK",
-    "frequency": 439100000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0HH",
-    "frequency": 439100000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0XO",
-    "frequency": 439100000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0HI",
-    "frequency": 439112500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0NX",
-    "frequency": 439125000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0AVR",
-    "frequency": 439125000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0BA",
-    "frequency": 439137500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0LR",
-    "frequency": 439150000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0EN",
-    "frequency": 439175000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0LEV",
-    "frequency": 439187500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MKV",
-    "frequency": 439200000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0SRE",
-    "frequency": 439212500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0HAT",
-    "frequency": 439225000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0RR",
-    "frequency": 439225000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0BI",
-    "frequency": 439250000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MHS",
-    "frequency": 439262500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MHS",
-    "frequency": 439262500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0LMM",
-    "frequency": 439275000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0WI",
-    "frequency": 439287500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0WET",
-    "frequency": 439300000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0PBS",
-    "frequency": 439312500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0VA",
-    "frequency": 439325000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0PL",
-    "frequency": 439325000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DXM",
-    "frequency": 439337500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DR",
-    "frequency": 439350000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0EIS",
-    "frequency": 439362500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0PX",
-    "frequency": 439375000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MIN",
-    "frequency": 439375000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MUH",
-    "frequency": 439400000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0MUE",
-    "frequency": 439437500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DDE",
-    "frequency": 439462500,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0OTV",
-    "frequency": 439500000,
-    "modulation": "nfm"
-  },
-  {
-    "name": "DB0DRE",
-    "frequency": 439525000,
-    "modulation": "nfm"
+    "modulation": "dmr"
   },
   {
     "name": "DB0DY",
@@ -422,6 +132,11 @@
   {
     "name": "DB0PBS",
     "frequency": 438212500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0IUZ",
+    "frequency": 438225000,
     "modulation": "dmr"
   },
   {
@@ -495,6 +210,11 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0WE",
+    "frequency": 438500000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0RTV",
     "frequency": 438512500,
     "modulation": "dmr"
@@ -505,8 +225,48 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0GWG",
+    "frequency": 438550000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0RI",
+    "frequency": 438562500,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0NG",
     "frequency": 438575000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0NG",
+    "frequency": 438575000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DRI",
+    "frequency": 438587500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0OVM",
+    "frequency": 438600000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WAT",
+    "frequency": 438612500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0QF",
+    "frequency": 438625000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SA",
+    "frequency": 438625000,
     "modulation": "dmr"
   },
   {
@@ -515,8 +275,43 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0TT",
+    "frequency": 438650000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DIN",
+    "frequency": 438662500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0EG",
+    "frequency": 438675000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MGH",
+    "frequency": 438687500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MUE",
+    "frequency": 438700000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0UD",
     "frequency": 438700000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DS",
+    "frequency": 438712000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0BOH",
+    "frequency": 438725000,
     "modulation": "dmr"
   },
   {
@@ -525,8 +320,58 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0YS",
+    "frequency": 438725000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0KLE",
+    "frequency": 438737500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0KOE",
+    "frequency": 438737500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0BPY",
+    "frequency": 438750000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HRF",
+    "frequency": 438750000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0ZV",
     "frequency": 438750000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0TOM",
+    "frequency": 438762500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0IDS",
+    "frequency": 438775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0QA",
+    "frequency": 438775000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0CGN",
+    "frequency": 438787500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SJ",
+    "frequency": 438800000,
     "modulation": "dmr"
   },
   {
@@ -535,13 +380,58 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0BS",
+    "frequency": 438825000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HRB",
+    "frequency": 438825000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0UG",
     "frequency": 438837500,
     "modulation": "dmr"
   },
   {
+    "name": "DB0DOS",
+    "frequency": 438850000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DTM",
+    "frequency": 438850000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WES",
+    "frequency": 438850000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WES",
+    "frequency": 438850000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DT",
+    "frequency": 438862500,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0GL",
     "frequency": 438875000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0QH",
+    "frequency": 438875000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0OW",
+    "frequency": 438887500,
     "modulation": "dmr"
   },
   {
@@ -555,8 +445,158 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0NG",
+    "frequency": 438900000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0ZK",
+    "frequency": 438900000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0CF",
     "frequency": 438912500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0KX",
+    "frequency": 438925000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0BOR",
+    "frequency": 438950000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0IS",
+    "frequency": 438962500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0CA",
+    "frequency": 438975000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0PD",
+    "frequency": 439000000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SK",
+    "frequency": 439000000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0FHA",
+    "frequency": 439012500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0NY",
+    "frequency": 439025000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SG",
+    "frequency": 439050000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0NA",
+    "frequency": 439075000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0VEL",
+    "frequency": 439087500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HH",
+    "frequency": 439100000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HK",
+    "frequency": 439100000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0XO",
+    "frequency": 439100000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HI",
+    "frequency": 439112500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0AVR",
+    "frequency": 439125000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0NX",
+    "frequency": 439125000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0BA",
+    "frequency": 439137500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0LR",
+    "frequency": 439150000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0EN",
+    "frequency": 439175000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0LEV",
+    "frequency": 439187500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MKV",
+    "frequency": 439200000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0SRE",
+    "frequency": 439212500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0HAT",
+    "frequency": 439225000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0RR",
+    "frequency": 439225000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0BI",
+    "frequency": 439250000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MHS",
+    "frequency": 439262500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MHS",
+    "frequency": 439262500,
     "modulation": "dmr"
   },
   {
@@ -565,8 +605,53 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0LMM",
+    "frequency": 439275000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WI",
+    "frequency": 439287500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0WET",
+    "frequency": 439300000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0II",
     "frequency": 439312500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0PBS",
+    "frequency": 439312500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0PL",
+    "frequency": 439325000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0VA",
+    "frequency": 439325000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DXM",
+    "frequency": 439337500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DR",
+    "frequency": 439350000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0EIS",
+    "frequency": 439362500,
     "modulation": "dmr"
   },
   {
@@ -575,13 +660,48 @@
     "modulation": "dmr"
   },
   {
+    "name": "DB0MIN",
+    "frequency": 439375000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0PX",
+    "frequency": 439375000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0MUH",
+    "frequency": 439400000,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0HI",
     "frequency": 439412500,
     "modulation": "dmr"
   },
   {
+    "name": "DB0MUE",
+    "frequency": 439437500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DDE",
+    "frequency": 439462500,
+    "modulation": "dmr"
+  },
+  {
     "name": "DB0EG",
     "frequency": 439487500,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0OTV",
+    "frequency": 439500000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DB0DRE",
+    "frequency": 439525000,
     "modulation": "dmr"
   },
   {
@@ -669,5 +789,4 @@
     "frequency": 439975000,
     "modulation": "dmr"
   }
-
 ]
