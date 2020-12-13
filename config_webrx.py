@@ -147,6 +147,22 @@ sdrs = {
                 "start_freq": 432174000,
                 "start_mod": "usb",
             },
+            "PMR446": {
+                "name": "PMR446",
+                "center_freq": 446100000,
+                "rf_gain": 29,
+                "samp_rate": 2400000,
+                "start_freq": 446006300,
+                "start_mod": "nfm",
+            },
+            "freenet": {
+                "name": "Freenet",
+                "center_freq": 149025000,
+                "rf_gain": 29,
+                "samp_rate": 2048000,
+                "start_freq": 149025000,
+                "start_mod": "nfm",
+            },
             "2m": {
                 "name": "2m",
                 "center_freq": 145000000,
@@ -155,7 +171,6 @@ sdrs = {
                 "start_freq": 145725000,
                 "start_mod": "nfm",
             },
-
         },
     },
     "airspy": {
