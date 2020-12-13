@@ -125,6 +125,36 @@
     "modulation": "nfm"
   },
   {
+    "name": "Freenet1",
+    "frequency": 149025,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Freenet2",
+    "frequency": 1490375,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Freenet3",
+    "frequency": 14905,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Freenet4",
+    "frequency": 1490875,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Freenet5",
+    "frequency": 1491,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Freenet6",
+    "frequency": 1491125,
+    "modulation": "nfm"
+  },
+  {
     "name": "DB0DAU",
     "frequency": 428812500,
     "modulation": "nfm"
