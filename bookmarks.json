@@ -282,7 +282,7 @@
   {
     "name": "DM0DOS",
     "frequency": 438475000,
-    "modulation": "dmr"
+    "modulation": "ysf"
   },
   {
     "name": "DB0WE",
